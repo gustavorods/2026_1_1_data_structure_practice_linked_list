@@ -30,7 +30,7 @@ The goal is to practice **fundamental data structure concepts in Java**, especia
 To get started, clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/gustavorods/<project_name>.git
+git clone https://github.com/gustavorods/2026_1_1_data_structure_practice_linked_list.git <project_name>
 cd <project_name>
 ```
 
