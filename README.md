@@ -6,6 +6,8 @@ Java exercise focused on practicing linked list structures, object relationships
 
 This project implements a simple data structure where each country stores its borders using a linked list.
 
+- **Note:** You can complete this exercise individually by following the `exercise.md` file.
+
 The system is composed of two main classes:
 
 - **Pais** – represents a country and stores the list of its borders
